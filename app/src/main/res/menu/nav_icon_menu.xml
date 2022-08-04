@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+
+    <item android:id="@+id/menu_profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Profile"/>
+
+    <item android:id="@+id/menu_Ticket_Information"
+        android:icon="@drawable/ticket_info"
+        android:title="Get Ticket Details"/>
+
+    <item android:id="@+id/menu_Ticket_Cancel"
+        android:icon="@drawable/ic_baseline_cancel_24"
+        android:title="Ticket Cancel"/>
+
+    <item android:id="@+id/menu_customer_care"
+        android:icon="@drawable/ic_baseline_contacts_24"
+        android:title="Customer care"/>
+
+    <item android:id="@+id/menu_help"
+        android:icon="@drawable/ic_baseline_help_outline_24"
+        android:title="*Terms and Condition"/>
+
+    <item android:id="@+id/menu_logout"
+        android:icon="@drawable/ic_baseline_lock_open_24"
+        android:title="Logout"/>
+
+
+</menu>

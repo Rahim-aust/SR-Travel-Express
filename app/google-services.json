@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752643062731",
+    "project_id": "sr-travel-express",
+    "storage_bucket": "sr-travel-express.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752643062731:android:6776b25ebff8cba5b3944e",
+        "android_client_info": {
+          "package_name": "com.example.srtravelexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752643062731-7oj6kqesn55gj889b8agps4u5mjo710l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5E2T9obEf3-CysPBtf29jWYFPKo0iEeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752643062731-7oj6kqesn55gj889b8agps4u5mjo710l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

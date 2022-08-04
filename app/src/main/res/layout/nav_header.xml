@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#BF2CC1BC"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/man"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nav_User_name"
+        android:textColor="@color/black"
+        android:textSize="30dp"
+        android:text="SR TRAVEL EXPRESS"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nav_User_email"
+        android:textColor="@color/tbg"
+        android:textSize="20dp"
+        android:text="SR TRAVEL EXPRESS limited"
+
+        />
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
