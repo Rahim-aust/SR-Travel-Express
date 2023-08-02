@@ -1,12 +1,2 @@
 # SR Travel Express
- Basically, this app is a mobile-based application functioning through a centralized network
-management system. This system facilitates everything under this single platform be it checking bus
-seat availability, buying tickets, making online payments via multiple secure payment modes, as well
-as ticket canceling, lest required. Also, there is an option that if customers face an issue, they can
-instantly get it resolved within the app itself.
-• To be clear, this bus ticket booking system is way different from the traditional database, which, on
-the contrary, is computerized to do the ticket booking and to track real-time bus location. It
-maintains user details, booking details, bus details, reservation details, and thus it is seamless,
-convenient, and travel easy. While booking via app, the traveler can easily choose the bus as per
-their convenience, looking into the departure time, bus ratings, bus type, and amenities/facilities
-provided during the onboard journeying.
+This app is a mobile-based platform that allows users to easily book bus tickets, check seat availability, make secure online payments, and even cancel tickets if needed. It operates through a centralized network management system, making it convenient and hassle-free for travelers. Unlike traditional methods, this system is computerized and can track real-time bus locations. It stores user details, booking information, bus details, and reservation information, providing a seamless and easy travel experience. The app also allows customers to resolve any issues they may encounter directly within the application. When booking through the app, travelers can choose buses based on their preferences, such as departure time, bus ratings, type of bus, and onboard amenities.
